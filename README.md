@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @3xit-X
+- 👀 I’m interested in Machine Learning, Data Base, Automations, Blockchain, AI
+- 🌱 I’m currently learning Python, Sql, Html, Css, Django
+- 📫 How to reach me: tix3xit@gmail.com / 3xiTix@protonmail.com
